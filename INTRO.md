@@ -1,1 +1,1 @@
-A short introduction about your team
+**Attic Lab** is a software development company operating in blockchain industry. Our team of tech-savvy blockchain developers and enthusiasts is located in Kyiv, Ukraine. Founded in 2016, Attic Lab has gone through a long process of transitioning from a company developing tailor-made blockchain software solutions to a product firm.
